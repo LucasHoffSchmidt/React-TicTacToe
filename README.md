@@ -9,5 +9,5 @@ Next.js, React, Tailwind, javascript, CSS
 ![Tic_Tac_Toe_Game](Tic_Tac_Toe-showcase.gif)
 
 ## Getting started
-The game can be played here: [The game](https://react-tic-tac-toe-l192.vercel.app/)
+The game can be played here: [Play tic-tac-toe](https://react-tic-tac-toe-l192.vercel.app/)
 
