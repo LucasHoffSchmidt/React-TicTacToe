@@ -2,7 +2,7 @@
 React-TicTacToe is a tic-tac-toe game made with React and Next.js.
 
 ![Tic_Tac_Toe_Game](Tic_Tac_Toe-showcase.gif)
-_Tic Tac Toe Game Overview_
+_Game Overview_
 
 ## Technologies used
 Next.js, React, Tailwind, javascript, CSS
